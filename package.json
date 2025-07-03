@@ -1,0 +1,23 @@
+{
+  "name": "tptestgithubactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoineGuillo55/ENI_TP_TestUnitaire_GithubActions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntoineGuillo55/ENI_TP_TestUnitaire_GithubActions/issues"
+  },
+  "homepage": "https://github.com/AntoineGuillo55/ENI_TP_TestUnitaire_GithubActions#readme"
+}
